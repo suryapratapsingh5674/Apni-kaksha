@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+}
+header{
+    text-align: center;
+    background-color: rgb(7, 87, 80) ;
+    padding: 45px;
+}
+h1{
+    padding: 20px;
+    background-color: white;
+}
+div{
+    background-color:rgb(190, 129, 202) ;
+    
+}
+
+p{
+    padding: 20px;
+}
+.h1{
+    color: black;
+    background-color:rgb(7, 87, 80)  ;
+}
+iframe{
+    margin: 20px;
+}
+footer{
+    background-color: rgb(54, 156, 156);
+    padding: 10px;
+}
+
+.us{
+    padding: 10px;
+    margin: 10px;
+}
+.uses{
+    padding: 10px;
+    margin: 10px;
+}
+.policy{
+    padding: 10px;
+    margin: 10px;
+}
+
+.us:hover{
+    cursor: pointer;
+    color: black;
+}
+.uses:hover{
+    cursor: pointer;
+    color: black;
+}
+.policy:hover{
+    cursor: pointer;
+    color: black;
+}
